@@ -1,0 +1,9 @@
+# IntelliJ
+.idea/
+
+# Kotlin
+*.iml
+out/
+
+# misc
+.DS_Store
