@@ -5,5 +5,5 @@ interface Ligavel {
 
     fun desligar()
 
-    fun estaLigado():Boolean
+    fun estaLigado(): Boolean
 }
